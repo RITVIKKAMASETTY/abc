@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+numpy
+pymongo
+fastapi
+uvicorn
+fastapi-users
+fastapi-users-db-mongodb
+certifi
+
+#-e .
