@@ -1,2 +1,3 @@
 venv64
 .env
+pushdata.py

@@ -7,5 +7,5 @@ uvicorn
 fastapi-users
 fastapi-users-db-mongodb
 certifi
-
+pymongo
 #-e .
